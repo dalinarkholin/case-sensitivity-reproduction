@@ -1,0 +1,15 @@
+{
+  "name": "case-sensitivity-reproduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dalinar Kholin",
+  "license": "MIT",
+  "devDependencies": {
+    "fork-ts-checker-webpack-plugin": "v5.0.0-beta.7",
+    "pnp-webpack-plugin": "^1.6.4",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
