@@ -94,7 +94,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.Bar = exports.Foo = void 0;\nexports.Foo = \"foo\";\nfunction Bar(num) {\n    return num;\n}\nexports.Bar = Bar;\nBar(exports.Foo);\n\n\n//# sourceURL=webpack:///./index.ts?");
+eval("\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.Foo = exports.Bar = void 0;\nexports.Bar = \"bar\";\nfunction Foo(num) {\n    return num;\n}\nexports.Foo = Foo;\n\n\n//# sourceURL=webpack:///./index.ts?");
 
 /***/ })
 

@@ -1,5 +1,5 @@
-export const Foo = "foo";
+export const Bar = "bar";
 
-export function Bar(num: number) {
+export function Foo(num: number) {
   return num;
 }
